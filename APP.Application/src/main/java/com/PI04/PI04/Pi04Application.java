@@ -1,10 +1,6 @@
 package com.PI04.PI04;
 
 import com.PI04.PI04.model.User;
-import com.PI04.PI04.repository.UserRepository;
-import com.mongodb.internal.diagnostics.logging.Logger;
-import org.slf4j.ILoggerFactory;
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
